@@ -1,6 +1,8 @@
 # Dapr: Install the Dapr CLI
 
-Dapr provides APIs for Building Secure and Reliable Microservices
+**Dapr** provides APIs for Building Secure and Reliable Microservices.
+
+**Dapr (Distributed Application Runtime)** is a portable, event-driven runtime that makes it easy for developers to build resilient, microservice stateless and stateful applications that run on the cloud and edge and embraces the diversity of languages and developer frameworks.
 
 https://dapr.io/
 
